@@ -1,0 +1,13 @@
+selenium
+undetected_chromedriver
+openpyxl
+webdriver_manager.chrome
+
+###########
+PYTHON 3.10
+###########
+
+Chrome Beta (104)
+ChromeDriver ( 104 ) + Add to path
+
+
